@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.jpumpkin.StepPayTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-08-07T08:08:56" hostname="jpumpkinui-MacBookPro.local" time="0.019">
+  <properties/>
+  <testcase name="음식종류_확인하기()" classname="com.jpumpkin.StepPayTest" time="0.019"/>
+  <system-out><![CDATA[[alex, bob]
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
